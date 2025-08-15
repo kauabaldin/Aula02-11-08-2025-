@@ -1,4 +1,1 @@
-# Programação de Computadores I
-
-Respostas dos exercícios
-- Aula 02 11/08/2025
+### Respostas dos exercícios de programação de computadores
