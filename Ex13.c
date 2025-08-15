@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 int main() {
     float area, base, altura;
     printf("Informe a base do triangulo: ");
